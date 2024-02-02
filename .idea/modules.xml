@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Black_Jack/Black_Jack.iml" filepath="$PROJECT_DIR$/Black_Jack/Black_Jack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buyuktenkucuge/buyuktenkucuge.iml" filepath="$PROJECT_DIR$/buyuktenkucuge/buyuktenkucuge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/faktorieljava/faktorieljava.iml" filepath="$PROJECT_DIR$/faktorieljava/faktorieljava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_0.iml" filepath="$PROJECT_DIR$/.idea/java_0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list_sort/list_sort.iml" filepath="$PROJECT_DIR$/list_sort/list_sort.iml" />
+    </modules>
+  </component>
+</project>
