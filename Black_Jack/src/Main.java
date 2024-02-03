@@ -23,4 +23,21 @@ public class Main {
 
         }*/
     }
+
+    public static String[] random_card(String[] args){
+            // Create an array of items
+            String[] items = {"Apple", "Banana", "Orange", "Grapes"};
+
+            // Create a Random object
+            Random random = new Random();
+
+            // Get a random index within the bounds of the array
+            int randomIndex = random.nextInt(items.length);
+
+            // Get the random item from the array
+            String randomItem = items[randomIndex];
+
+            // Print the random item
+            System.out.println("Random item: " + randomItem);
+    }
 }
